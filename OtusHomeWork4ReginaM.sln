@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtusHomeWork4ReginaM", "OtusHomeWork4ReginaM\OtusHomeWork4ReginaM.csproj", "{6A1A8ACE-9868-4959-B4F2-F535151A508A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1A8ACE-9868-4959-B4F2-F535151A508A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1A8ACE-9868-4959-B4F2-F535151A508A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1A8ACE-9868-4959-B4F2-F535151A508A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1A8ACE-9868-4959-B4F2-F535151A508A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D91F84-E952-437D-8E07-C31DB3E06D95}
+	EndGlobalSection
+EndGlobal
